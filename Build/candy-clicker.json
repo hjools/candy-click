@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "iss320hw4-1",
+"dataUrl": "candy-clicker.data.unityweb",
+"wasmCodeUrl": "candy-clicker.wasm.code.unityweb",
+"wasmFrameworkUrl": "candy-clicker.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
